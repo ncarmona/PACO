@@ -2,7 +2,7 @@
 
 Prácticas de la asignatura de paralelismo y concurrencia impartida en la EPSEVG durante el curso __2017-2018__.
 
-- Práctica 1 Nota ![#c5f015](8.5)
-- Práctica 2 Nota ![#f03c15](4) revisar
-- Práctica 3 Nota ![#c5f015](7.3)
+- Práctica 1 Nota <font color="green">8.5</font>
+- Práctica 2 Nota <font color="red">4 revisar</font>
+- Práctica 3 Nota <font color="green">7.3</font>
 
