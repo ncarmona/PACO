@@ -6,3 +6,4 @@ Prácticas de la asignatura de paralelismo y concurrencia impartida en la EPSEVG
 - Práctica 2 Nota __4__ (revisar)
 - Práctica 3 Nota __7.3__
 - Práctica 4 Nota __8.5__
+- Práctica 5 Nota __6.5__
